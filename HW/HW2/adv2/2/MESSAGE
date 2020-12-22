@@ -1,0 +1,2 @@
+Recover dangling things quickly, git will periodically automatically clean up
+commits that nothing points to.

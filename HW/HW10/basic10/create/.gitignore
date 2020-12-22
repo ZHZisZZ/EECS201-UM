@@ -1,0 +1,4 @@
+*.o
+lib
+app-dynamic
+app-static
